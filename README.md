@@ -46,11 +46,11 @@ API支持BTCKR所有合约的行情、交易业务，用户可通过API对接交
 
 ### 交易服务
 
-[Token申请](https://github.com/szquanapi/SZ-API/wiki/%E8%AF%B7%E6%B1%82%E8%AF%B4%E6%98%8E)
+[Token申请]()
 
-[Signature](https://github.com/szquanapi/SZ-API/wiki/Signature)
+[Signature]()
 
-[错误码](https://github.com/szquanapi/SZ-API/wiki/%E9%94%99%E8%AF%AF%E7%A0%81)
+[错误码]()
 
 [RESTful API Reference](https://documenter.getpostman.com/view/4857742/RznFqJmS)
 
